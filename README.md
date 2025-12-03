@@ -1,4 +1,3 @@
-<img width="1919" height="891" alt="Screenshot 2025-12-03 120711" src="https://github.com/user-attachments/assets/c2775a68-9f88-4900-870c-fdcaaeaf7ace" /><img width="1919" height="898" alt="Screenshot 2025-12-03 120809" src="https://github.com/user-attachments/assets/b3328e77-bdad-4d51-953d-f555ebbb229b" /># 📌 AI-Powered Image Classification System 🖼️🤖
 
 **AI-Powered Image Classification System** is a deep learning project built using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset. It classifies images into 10 categories using a custom 6-layer CNN architecture.
 
@@ -62,12 +61,17 @@ Generated outputs include:\
 
 ## 📷 Demo Images
 
-<img width="1919" height="898" alt="Screenshot 2025-12-03 120819" src="https://github.com/user-attachments/assets/3b55ba49-65ef-4072-b276-eece58db957d" />
-<img width="1919" height="898" alt="Screenshot 2025-12-03 120809" src="https://github.com/user-attachments/assets/2bbbb31f-5d18-4c46-b734-251390a4b4bc" />
-<img width="1915" height="897" alt="Screenshot 2025-12-03 120751" src="https://github.com/user-attachments/assets/f0736275-15fd-486e-a3d3-25a42a052560" />
-<img width="1918" height="896" alt="Screenshot 2025-12-03 120737" src="https://github.com/user-attachments/assets/4c5dbc06-e9e1-4016-8e27-40230b67c856" />
-<img width="1919" height="891" alt="Screenshot 2025-12-03 120711" src="https://github.com/user-attachments/assets/a9d23bf5-fefb-4bcb-b82f-c2a0d2a90c8b" />
-<img width="1916" height="900" alt="Screenshot 2025-12-03 120658" src="https://github.com/user-attachments/assets/c1e7795d-6b84-4127-994e-b5772e2af672" />
+<img width="1916" height="900" alt="Screenshot 2025-12-03 120658" src="https://github.com/user-attachments/assets/ba9e64d6-cdd8-492c-80c2-a069409d0f79" />
+
+<img width="1919" height="891" alt="Screenshot 2025-12-03 120711" src="https://github.com/user-attachments/assets/9f197a9a-3e43-476c-923f-b339ba4a00d2" />
+
+<img width="1918" height="896" alt="Screenshot 2025-12-03 120737" src="https://github.com/user-attachments/assets/386375aa-41ef-451a-b486-20fb7f73e1c4" />
+
+<img width="1915" height="897" alt="Screenshot 2025-12-03 120751" src="https://github.com/user-attachments/assets/dbbe5ccb-dc2a-40cf-a881-9bbfad20da73" />
+
+<img width="1919" height="898" alt="Screenshot 2025-12-03 120809" src="https://github.com/user-attachments/assets/2c09d1c5-e3b6-4b39-bb14-4359e926aba4" />
+
+<img width="1919" height="898" alt="Screenshot 2025-12-03 120819" src="https://github.com/user-attachments/assets/77f74e82-170e-4ed4-b7be-79a7a79e6cc5" />
 
 ------------------------------------------------------------------------
 
