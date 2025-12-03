@@ -5,29 +5,23 @@
 
 ## 🚀 Features
 
--   📊 **Image Classification** -- Predicts one of the 10 CIFAR-10
-    categories
--   🧠 **Custom CNN Architecture** -- Includes convolution layers, batch
-    normalization, ReLU, and dropout
--   ⚙️ **Complete Training Pipeline** -- Preprocessing, training,
-    validation, and testing
--   📈 **Performance Metrics** -- Accuracy, loss, confusion matrix,
-    precision, recall, F1-score
--   🎥 **Demo Video Included** -- Overview of training and model
-    behavior
--   📓 **Jupyter Notebook** -- Contains full model code and training
-    workflow
+-   📊 **Image Classification** -- Predicts one of the 10 CIFAR-10 categories
+-   🧠 **Custom CNN Architecture** -- Includes convolution layers, batch normalization, ReLU, and dropout
+-   ⚙️ **Complete Training Pipeline** -- Preprocessing, training, validation, and testing
+-   📈 **Performance Metrics** -- Accuracy, loss, confusion matrix, precision, recall, F1-score
+-   🎥 **Demo Video Included** -- Overview of training and model behavior
+-   📓 **Jupyter Notebook** -- Contains full model code and training workflow
 
 ------------------------------------------------------------------------
 
 ## 🧠 Dataset: CIFAR-10
 
 -   **60,000 images** (32×32 pixels)
-    -   50,000 for training\
-    -   10,000 for testing\
--   Images were:\
-    ✔️ Merged and shuffled\
-    ✔️ Normalized (0.0 -- 1.0)\
+    -   50,000 for training
+    -   10,000 for testing
+-   Images were:
+    ✔️ Merged and shuffled
+    ✔️ Normalized (0.0 -- 1.0)
     ✔️ Split into training, validation, and testing sets
 
 ------------------------------------------------------------------------
@@ -36,25 +30,25 @@
 
 The CNN consists of:
 
--   🔹 **6 Convolutional Layers** -- Extract visual features\
--   🔹 **Batch Normalization** -- Stable and faster training\
--   🔹 **ReLU Activation** -- Adds non-linearity\
--   🔹 **Dropout (0.3)** -- Reduces overfitting\
--   🔹 **Fully Connected Layers** -- Perform final classification\
+-   🔹 **6 Convolutional Layers** -- Extract visual features
+-   🔹 **Batch Normalization** -- Stable and faster training
+-   🔹 **ReLU Activation** -- Adds non-linearity
+-   🔹 **Dropout (0.3)** -- Reduces overfitting
+-   🔹 **Fully Connected Layers** -- Perform final classification
 -   🔹 **Softmax Output** -- Predicts probabilities for 10 classes
 
 ------------------------------------------------------------------------
 
 ## 📊 Model Performance
 
--   **Training Accuracy:** 0.79\
--   **Validation Accuracy:** 0.78\
--   **Training Loss:** 0.60\
+-   **Training Accuracy:** 0.79
+-   **Validation Accuracy:** 0.78
+-   **Training Loss:** 0.60
 -   **Validation Loss:** 0.63
 
-Generated outputs include:\
-- ✔️ Confusion Matrix\
-- ✔️ Accuracy & Loss Graphs\
+Generated outputs include:
+- ✔️ Confusion Matrix
+- ✔️ Accuracy & Loss Graphs
 - ✔️ Precision, Recall, F1-score
 
 ------------------------------------------------------------------------
@@ -77,7 +71,7 @@ Generated outputs include:\
 
 ## 📌 Future Enhancements
 
--   Data augmentation\
--   Using advanced architectures like ResNet\
--   Deploying the model using Streamlit or Flask\
+-   Data augmentation
+-   Using advanced architectures like ResNet
+-   Deploying the model using Streamlit or Flask
 -   Real-time image prediction demo
