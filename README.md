@@ -19,10 +19,10 @@
 -   **60,000 images** (32×32 pixels)
     -   50,000 for training
     -   10,000 for testing
--   Images were: \n
-    ✔️ Merged and shuffled \n
-    ✔️ Normalized (0.0 -- 1.0) \n
-    ✔️ Split into training, validation, and testing sets \n
+-   Images were:
+    - ✔️ Merged and shuffled
+    - ✔️ Normalized (0.0 -- 1.0)
+    - ✔️ Split into training, validation, and testing sets
 
 ------------------------------------------------------------------------
 
